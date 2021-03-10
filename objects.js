@@ -5,5 +5,5 @@ playlist['Phil Ochs']= 'Slowdive'
 }
 function removeFromPlaylist(playlist, artistName) {
   delete playlist['Phil Ochs']
-  return playlist['Phil Ochs']= 'My Bloody Valentine'
+  return playlist['My Bloody Valentine']= 'When you Sleep'
 }
